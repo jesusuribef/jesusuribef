@@ -1,12 +1,43 @@
-# Hello! I'm Eggsy! Full Stack Developer
-## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
-## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
-## Technologies
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
-RUBY, JAVA
+# ¡Hola! Soy Jesús Uribe 👋
 
-## Hobbies
-Dancing, playing videogames..
+📈 Coordinador comercial experimentado | 💻 Aspirante a desarrollador backend en Java | 🚀 Aprendo con facilidad
+
+---
+
+## Sobre mí
+
+Soy un apasionado de la tecnología con más de 10 años de experiencia en el área comercial trabajando para grandes empresas como BACKUS & JOHNSTON. Aunque mi trayectoria profesional ha sido en un sector diferente, siempre he tenido una gran pasión por la programación. Actualmente, estoy profundizando mis conocimientos en desarrollo backend con Java, fusionando mi experiencia en coordinación comercial con mis nuevas habilidades técnicas.
+
+- 🌱 Actualmente, estoy aprendiendo JAVA para el desarrollo de backend.
+- 👯 Estoy buscando colaborar en proyectos de API RESTful, microservicios y plataformas de e-commerce con Java en el backend.
+- 📫 Cómo contactarme en IG: @j.uribef
+- ⚡ Dato curioso: Soy un aprendiz veloz, y siempre me adapto rápidamente a nuevas tecnologías y conceptos.
+
+---
+
+## Lenguajes y Herramientas
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Proyectos Destacados
+
+- [Proyecto 1](https://github.com/tu-usuario/Sudoku): Es una prueba del juego Sudoku.
+
+---
+
+
+## Conectemos
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JesusUribeFe)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesusuribef)
+
+---
+
+¡Gracias por visitar mi perfil!
+
