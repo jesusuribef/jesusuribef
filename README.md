@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jesús Uribe 👋
 
-📈 Coordinador comercial experimentado | 💻 Aspirante a desarrollador backend en Java | 🚀 Aprendo con mucha facilidad y rapidez
+📈 Coordinador comercial | 💻 Aspirante a desarrollador backend en Java | 🚀 Aprendo con mucha facilidad y rapidez
 
 ---
 
