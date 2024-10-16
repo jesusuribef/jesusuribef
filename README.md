@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jesús Uribe 👋
 
-📈 Coordinador comercial experimentado | 💻 Aspirante a desarrollador backend en Java | 🚀 Aprendo con facilidad
+📈 Coordinador comercial experimentado | 💻 Aspirante a desarrollador backend en Java | 🚀 Aprendo con mucha facilidad y rapidez
 
 ---
 
@@ -27,13 +27,14 @@ Soy un apasionado de la tecnología con más de 10 años de experiencia en el á
 
 ## Proyectos Destacados
 
-- [Proyecto 1](https://github.com/tu-usuario/Sudoku): Es una prueba del juego Sudoku.
+- [Proyecto 1](https://github.com/jesusuribef/Sudoku): Es una prueba del juego Sudoku.
 
 ---
 
 
 ## Conectemos
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.uribef)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JesusUribeFe)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesusuribef)
 
